@@ -1,0 +1,14 @@
+8 8
+Vanesa (0,0) 000
+humano CV (2,2) 050
+humano (1,3) 005
+zombie (2,3) 101
+Nosferatu (4, 3) 200
+vampiro (4, 0) 250
+Vampirella (4,1) 201
+cruz (1,0) 323
+agua 20 (1,2) 300
+agua 30 (3,3) 319
+estaca (3,2) 381
+escopeta (2,1) 350
+bala 10 (1,1) 362

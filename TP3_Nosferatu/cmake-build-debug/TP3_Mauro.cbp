@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TP3_Mauro"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP3_Mauro">
+				<Option output="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/TP3_Mauro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP3_Mauro"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP3_Mauro/fast">
+				<Option output="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/TP3_Mauro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP3_Mauro/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Battle.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Battle.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Being.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Being.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/BoardFile.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/BoardFile.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Bullet.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Bullet.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cell.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cell.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cliff.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cliff.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cross.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Cross.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Element.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/FileManager.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/FileManager.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Floyd2.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Floyd2.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Gotoxy.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Graph.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Graph.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/HolyWater.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/HolyWater.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Human.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Human.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Hunter.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Hunter.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Lake.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Lake.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Lista.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/MapGenerator.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/MapGenerator.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Matrix.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Monster.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Mountain.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Mountain.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Nodo.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Nosferatu.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Nosferatu.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Object.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Object.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/ObjectFile.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/ObjectFile.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/ObjectIncludes.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Road.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Road.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/SaveGameFile.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/SaveGameFile.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Shotgun.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Shotgun.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Stake.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Stake.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/TheVoid.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/TheVoid.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vampire.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vampire.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vampirella.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vampirella.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vanesa.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vanesa.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vertice.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Vertice.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Volcano.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Volcano.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Zombie.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/Zombie.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/colors.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/constansNames.h">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/main.cpp">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/estado.txt">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/users/simon/clionprojects/Nosferatu/TP3_Mauro/cmake-build-debug/tablero.txt">
+			<Option target="TP3_Mauro"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/simon/CLionProjects/Nosferatu/TP3_Mauro/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

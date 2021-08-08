@@ -1,0 +1,3 @@
+/home/enzo/Escritorio/TP3/Nosferatu/TodoLobas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enzo/Escritorio/TP3/Nosferatu/TodoLobas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/enzo/Escritorio/TP3/Nosferatu/TodoLobas/cmake-build-debug/CMakeFiles/simon.dir

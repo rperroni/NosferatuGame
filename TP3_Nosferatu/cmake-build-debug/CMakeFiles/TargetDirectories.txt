@@ -1,0 +1,3 @@
+/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/CMakeFiles/simon.dir

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="grafos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simon">
+				<Option output="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/simon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 simon"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simon/fast">
+				<Option output="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/simon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 simon/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Battle.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Battle.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Being.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Being.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/BoardFile.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/BoardFile.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Bullet.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Bullet.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cell.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cell.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cliff.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cliff.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/CostMatrices.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/CostMatrices.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cross.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Cross.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/DictNode.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/DictNode.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Dictionary.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Dictionary.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Element.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Element.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/FileManager.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/FileManager.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Floyd.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Floyd.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Game.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Game.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Gotoxy.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/HolyWater.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/HolyWater.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Human.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Human.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Hunter.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Hunter.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Identifier.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Identifier.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Inventory.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Inventory.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Lake.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Lake.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/List.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Map.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Map.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/MapCreator.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/MapCreator.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Matrix.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Menu.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Menu.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Monster.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Monster.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Mountain.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Mountain.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Node.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Nosferatu.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Nosferatu.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Object.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Object.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectAdder.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectAdder.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectCreator.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectCreator.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectFile.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectFile.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/ObjectIncludes.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Player.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Player.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Printer.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Printer.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/QuadrantSearch.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/QuadrantSearch.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Road.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Road.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/SaveGameFile.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/SaveGameFile.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Shotgun.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Shotgun.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Simulation.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Simulation.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/SimulationMenu.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/SimulationMenu.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Stake.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Stake.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/TheVoid.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/TheVoid.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/UserInput.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/UserInput.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vampire.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vampire.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vampirella.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vampirella.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vanesa.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vanesa.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vertex.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Vertex.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Volcano.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Volcano.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Zombie.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/Zombie.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/colors.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/constantsNames.h">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/estado.txt">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/main.cpp">
+			<Option target="simon"/>
+		</Unit>
+		<Unit filename="/home/rocio/Documents/PruebasGit/Nosferatu/TP3_Juntado1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
